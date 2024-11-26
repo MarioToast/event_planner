@@ -4,11 +4,11 @@
     margin: 0 auto;
     padding: 20px;
     text-align: center;
-    background: linear-gradient(135deg, #fee6f0 25%, transparent 25%) -50px 0,
+    background: linear-gradient(135deg, #b6e2ff 25%, transparent 25%) -50px 0,
                 linear-gradient(225deg, #fee6f0 25%, transparent 25%) -50px 0,
-                linear-gradient(315deg, #fee6f0 25%, transparent 25%),
+                linear-gradient(315deg, #b6e2ff 25%, transparent 25%),
                 linear-gradient(45deg, #fee6f0 25%, transparent 25%);
-    background-size: 100px 100px; /* Adjust the size based on the pattern */
+    background-size: 100px 100px; /* Adjust the size based on the pattern  fee6f0*/
   }
   
   header h1 {
